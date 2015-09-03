@@ -1,0 +1,73 @@
+body {
+	font-family: Arial, tahoma, sans-serif;
+	line-height: 1;
+	color: black;
+	background: ;
+	width: 900px;
+	margin: auto;
+	background-color: #ecf0f1;
+	font-size: 18px;
+	
+}
+ol, ul {
+	margin: 0;
+	padding: 0;
+}
+
+.profile-contact{
+	margin-left: 0px;
+	float: left;
+	font-family: Arial, tahoma, sans-serif;
+	font-size: 14px;   
+}
+.infosjobphoto
+{
+	max-height: 120px;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 450px;
+	text-decoration: none;
+	background-color: #bdc3c7;
+	font-size: 18px;
+}
+.nomjob{
+	padding-bottom: 80px;
+	margin-bottom: 30px;
+	font-family: tahoma; 
+	font-size: 18px;
+	font-weight: bold;
+}
+.photo{
+	float: left;
+	margin-right: 15px;
+}
+.fo{
+	float: left;
+}
+h2{
+	font-size: 18px;
+}
+h3{
+
+	font-size: 18px;
+}
+section {
+	float: center;
+	margin-left: 350px;
+	margin-bottom: 15px;
+
+
+}
+footer p {
+	text-align: center;
+}
+.trait{
+	float: center;
+}
+.page {
+	background-color: white;
+}
+.profilecontact{
+	margin-left: 10px;
+}
+
